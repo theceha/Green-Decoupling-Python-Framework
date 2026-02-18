@@ -5,7 +5,7 @@
 
 This repository contains a data science framework developed in **Python (Jupyter Notebook)** for analyzing structural heterogeneity across EU economies concerning **Green Decoupling** (the separation of economic growth from environmental pressure).
 
-This project directly demonstrates the advanced analytical and programming expertise required for the Economist-Statistician role at the ECB. It is a partial replication and extension of research presented at the **ICED Conference (December 2025)**.
+This project demonstrates applied macro-statistical modelling and clustering analysis using EU data. It is a partial replication and extension of research presented at the **ICED Conference (December 2025)**.
 
 ---
 
